@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Netours Demo Test suite]">
+  <test name="Links on newtours app(failed)">
+    <classes>
+      <class name="day26.Links">
+        <methods>
+          <include name="linksTest"/>
+        </methods>
+      </class> <!-- day26.Links -->
+    </classes>
+  </test> <!-- Links on newtours app(failed) -->
+</suite> <!-- Failed suite [Netours Demo Test suite] -->
